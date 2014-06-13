@@ -10,11 +10,11 @@ Oslo Haskell Workshops
 * Each workshop will consist of shorter lectures followed by assignments
 
 ## Packages I'd like to cover
-
-* Fay/Haste/GHCJS or some other compile-to-js tool
-* Yesod
-* Persistent
-* Lenses
-* Haxl
+* [Cloud Haskell](http://hackage.haskell.org/package/cloud-haskell)
+* [Fay](http://hackage.haskell.org/package/fay), [Haste](http://hackage.haskell.org/package/haste), [GHCJS](https://github.com/ghcjs/ghcjs) or some other compile-to-js tool
+* [Yesod](http://www.yesodweb.com/)
+* [Persistent](http://hackage.haskell.org/package/persistent), [Acid-state](http://hackage.haskell.org/package/acid-state)
+* [Lenses](http://hackage.haskell.org/package/lenses)
+* [Haxl](http://hackage.haskell.org/package/haxl)
 
 
