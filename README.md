@@ -31,7 +31,10 @@ Oslo Haskell Workshops
 
 ### Recursion
 
+
 ### Recursion schemes
+
+Explicit recursion is the 'goto' for FP.
 
 We can write recursive functions all night long, or we can take a step upwards on the abstraction latter and use some of the many "recursion schemes" available:
 
