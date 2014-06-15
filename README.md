@@ -41,6 +41,7 @@ We can write recursive functions all night long, or we can take a step upwards o
 * `Data.List`
 * `map`
 * `filter`
+* `find`
 * `foldr`, `foldl` (catamorphism)
 * `unfoldr` (anamorphism)
 * `scanl`
