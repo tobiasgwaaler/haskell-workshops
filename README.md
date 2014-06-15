@@ -31,6 +31,17 @@ Oslo Haskell Workshops
 
 ### Recursion
 
+### Recursion schemes
+
+We can write recursive functions all night long, or we can take a step upwards on the abstraction latter and use some of the many "recursion schemes" available:
+
+* `Data.List`
+* `map`
+* `filter`
+* `foldr`, `foldl` (and catamorphisms)
+* `scanl`
+* `mapAccumL` and `mapAccumR`
+
 ### Modules 
 * Types
 * Modules
@@ -46,6 +57,10 @@ Oslo Haskell Workshops
 * `type`
 * `data`
 * `newtype`
+
+### Language Extensions
+* How do they work?
+* Top 20: the most popular extensions
 
 
 # Packages I'd like to cover
