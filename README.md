@@ -38,7 +38,8 @@ We can write recursive functions all night long, or we can take a step upwards o
 * `Data.List`
 * `map`
 * `filter`
-* `foldr`, `foldl` (and catamorphisms)
+* `foldr`, `foldl` (catamorphism)
+* `unfoldr` (anamorphism)
 * `scanl`
 * `mapAccumL` and `mapAccumR`
 
