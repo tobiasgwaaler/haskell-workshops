@@ -3,8 +3,9 @@
    This can be made into a series of slides where each element is introduced one by one 
 -}
 
-module Parser.Tokenizer where (                            -- (1) Module 
-       tokenize)                                           -- (2) Exported function, can be imported in other modules
+module Parser.Tokenizer (                                  -- (1) Module
+       tokenize                                            -- (2) Exported function, can be imported in other modules
+     ) where
 
 tokenize :: RawSource -> [Token]                           -- (2) 
 tokenize source = let cleanSource = removeComments source  -- (3) let expression, only visible inside '
