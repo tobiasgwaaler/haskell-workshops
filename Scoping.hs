@@ -4,8 +4,14 @@
 -}
 
 module Parser.Tokenizer (                                  -- (1) Module
-       tokenize                                            -- (2) Exported function, can be imported in other modules
+       RawSource                                           -- (A) Only Datatype, no constructors
+     , Source (..)                                         -- (B) Data type and all constructors
+     , tokenize                                            -- (2) Exported function, can be imported in other modules
      ) where
+
+data RawSource = ...                                       -- (A)
+data Source = Constructor1 ...                             -- (B)
+            | Constructor2 ...
 
 tokenize :: RawSource -> [Token]                           -- (2) 
 tokenize source = let cleanSource = removeComments source  -- (3) let expression, only visible inside '
