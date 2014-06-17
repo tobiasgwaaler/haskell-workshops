@@ -63,6 +63,10 @@ We can write recursive functions all night long, or we can take a step upwards o
 * `data`
 * `newtype`
 
+### Error handling
+* `Error` 
+* `Either`
+
 ### Language Extensions
 * How do they work?
 * Top 20: the most popular extensions
