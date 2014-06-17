@@ -9,7 +9,7 @@ Oslo Haskell Workshops
 * First part focuses on the Haskell language
 * ... followed by explorations of popular libraries, tools and frameworks
 * Loosely based on [LYAH](http://learnyouahaskell.com/)
-
+* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/#intro)
 
 # Outline
 
