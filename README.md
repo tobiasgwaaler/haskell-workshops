@@ -63,6 +63,11 @@ We can write recursive functions all night long, or we can take a step upwards o
 * `data`
 * `newtype`
 
+### Strong typing
+* Why is it a good idea?
+* What can the type system help us with?
+* [Phantom type](http://www.haskell.org/haskellwiki/Phantom_type)
+
 ### Error handling
 * `Error` 
 * `Either`
