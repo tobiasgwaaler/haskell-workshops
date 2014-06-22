@@ -66,7 +66,7 @@ main = print (if 1 < 2 then "Yes" else "No")
 main = print (if 1 < 2 then (if 1 < 3 then "Hooray!" else "Yes") else "No")
 ```
 
-# Basic data types
+# Basic data structures
 
 * List:  [1,2,3]
 * Tuple: (1,2,3) 
@@ -75,7 +75,7 @@ main = print (if 1 < 2 then (if 1 < 3 then "Hooray!" else "Yes") else "No")
 * 1 + 2 - 3 * 4 / 5
 * "Bada" ++ "bim"
 * elem 1 [1,2,3]
-* 
+* ...
 
 # Functions summary
 By now we know how to ...
