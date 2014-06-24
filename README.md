@@ -9,7 +9,7 @@ Oslo Haskell Workshops
 * Each workshop will consist of shorter lectures followed by assignments
 * First part focuses on the Haskell language basics
 * ... followed by explorations of popular libraries, tools and frameworks
-* Loosely based on [LYAH](http://learnyouahaskell.com/)
+* Loosely based on [LYAH](http://learnyouahaskell.com/) and [Brent Yorgey's course](http://www.seas.upenn.edu/~cis194/lectures.html)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/#intro)
 
 #### See presentation.md for the actual contents
