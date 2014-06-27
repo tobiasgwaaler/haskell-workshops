@@ -9,7 +9,12 @@ Oslo Haskell Workshops
 * Each workshop will consist of shorter lectures followed by assignments
 * First part focuses on the Haskell language basics
 * ... followed by explorations of popular libraries, tools and frameworks
-* Loosely based on [LYAH](http://learnyouahaskell.com/), [Brent Yorgey's course](http://www.seas.upenn.edu/~cis194/lectures.html) and [CS240 at Stanford](http://www.scs.stanford.edu/14sp-cs240h/)
+ 
+# Resources
+* [LYAH](http://learnyouahaskell.com/)
+* [Brent Yorgey's course](http://www.seas.upenn.edu/~cis194/lectures.html)
+* [CS240 at Stanford](http://www.scs.stanford.edu/14sp-cs240h/)
+* [Nishant Shukla's Haskell course at Uni. of Virginia](http://shuklan.com/haskell/)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/#intro)
 
 #### See presentation.md for the actual contents
