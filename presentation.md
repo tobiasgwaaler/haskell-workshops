@@ -169,6 +169,7 @@ Explicit recursion is the 'goto' for FP.
 ### Strong typing
 * Why is it a good idea?
 * What can the type system help us with?
+* [GADTs](http://vimeo.com/12208838)
 * [Phantom type](http://www.haskell.org/haskellwiki/Phantom_type)
 
 ### Error handling
