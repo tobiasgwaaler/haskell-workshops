@@ -17,6 +17,7 @@ Oslo Haskell Workshops
 * [Nishant Shukla's Haskell course at Uni. of Virginia](http://shuklan.com/haskell/)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/#intro)
 * [A few videos/presentations about GADTs and fixed point combinator](http://apfelmus.nfshost.com/blog/2010/06/01-gadts-video.html)
+* [Interactive lessons, could be used as an assignment for participants](https://stevekrouse.github.io/hs.js/)
 
 #### See presentation.md for the actual contents
 
